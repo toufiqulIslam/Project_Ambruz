@@ -1,0 +1,28 @@
+
+.banner{
+  margin-top: 30px;
+  position: flex;
+  display: inline-flex;
+  margin-top: 65px;
+  width: 100%;
+}
+
+.signupButton{
+  background-color: #EF27D6; /* pink */
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin-top: 3px;
+  margin-left: -5px;
+  -webkit-transition-duration: 0.2s; /* Safari */
+  transition-duration: 0.2s;
+}
+}
+.signupButton:hover{
+  background-color: #C107AA;
+}
